@@ -1,0 +1,42 @@
+/*
+filename: Manan Rajpal
+author: Manan Rajpal
+created: 04-04-2016
+lastmodified: 04-04-2016
+description: main.css
+*/
+body{background-color: #F5F5F5; font-family:Arial, sans-serif;} /* used for applying the background and setting the font to the whole body.*/
+#menu{float:right;font-weight: bold; font-size: x-large;text-align:center; padding:0.5em;clear:left;font-family:Garamond, sans-serif;}/*used for aligning and setting the position of the menu to the top right of the page.*/
+header nav a{text-decoration: none;}/*used for removing the underline property which was default with links. */
+.quoteheading{color:blue;}/*used for highlighting the computer legend.*/
+#quote{float:left; width:100%; text-align:left; font-size:large;}/*used for aligning and positing the quote which has company's image and quote by steve jobs. */
+#quoteimage{float:left;}/* aligning the quote image*/
+#welcome{float:left; width:100%; text-align:left; font-size:large;}/* used for positioning the content on welcome page */
+.content{font-size: x-large;font-family:Arial, sans-serif; }/* used for individual contents on welcome page*/
+#softwared{float:left; width:80%;}/*positioning of image used on home page */
+aside{float:right;width:20%;border:0px inset blue;border-radius: 14px;padding:2em;background:url(jobnackground.jpg) repeat-x top left;clear:left;font-size:x-large}/*used for positioning the aside which is used as a banner to the links to jobs available. */
+#problem{float:none;width:50%;clear:left;}/*used for positioning the heading which was creating the problem in layout.  */
+#customer{border:0px solid; width:60%;border-radius: 15px; padding:2em;background:url(images/jobbackground.jpg) repeat-x top left;font-weight:bold;}/*designing of the li of ol */
+#Webd{border:0px solid; width:60%;border-radius: 15px; padding:2em;background-image:url(images/jobbackground.jpg); font-weight:bold;}/* designing of the li of ol*/
+#problem1{float:left;width:100%;}/* used for position the heading on apply.html page which was creating problem in layout */
+#jobdetails{float:left;width:20%; font-weight: bold;padding:1em;border:0px inset;background-image:url(images/trialback.jpg);}/*designing of job details section */
+#personald{float:left;width:20%;font-weight: bold;padding:1em;border:0px inset;background-image:url(images/trialback.jpg)}/*designing of personal information section */
+#address{float:left;width:20%;font-weight: bold;padding:1em;border:0px inset;background-image:url(images/trialback.jpg)}/*designing of address section */
+#contact{float:left;width:20%;font-weight: bold;padding:1em;border:0px inset;background-image:url(images/trialback.jpg)}/*designing of contact section */
+#skills{float:left;width:20%;font-weight: bold;padding:1em;border:0px inset;background-image:url(images/trialback.jpg)}/*designing of skills section */
+#submit{float:left;width:10%;clear:both;font-size:large;}/*adjusting the submit button */
+#reset{float:left;width:10%;clear:right;font-size:large;}/*adjusting the reset button */
+#name{font-size: 150%; font-weight:bold; float: left; width:50%;}/*adjusting the name on about page */
+#img{float: right; border:double inset; padding:40px;}/*adjusting the image on about page */
+#stno{font-family:Courier, sans-serif; width:50%; float:left;font-size:150%;font-weight:bold;}/*adjusting the student number on about page */
+#tutname{float:right;text-align:left;clear:both;font-weight:bold;}/*adjusting the tutor's name on about page */
+#datetime{float:right;text-align:right;clear:both;font-weight:bold;}/*adjusting the date and time of tutorial on about page. */
+#course{color: #191970;width:30%;float:left;font-weight:bold;font-size:large;}/*adjusting the course details on about page */
+table, th, td{color:rgb(1,88,87); border:1px double ;width:50%;text-align:center;}/*positioning and designing the table on about page  */
+th{font-weight: bold;}/* making the table heading in table bold*/
+#datetime{float:right;}/*adjusting the date time */
+footer{float:right;width:40%;font-size:small;}/*positioning the footer */
+aside ol a{text-decoration: none;}/*removing the underline on links in banner on jobs page. */
+#office{float:left;font-weight:bold;font-size:x-large;}/*positing of paragraph of image mapping*/
+#enhancementsheading{float:left;width:100%;clear:both;}/**/
+#imagemapcontent{float:left;font-weight: bold;font-size:large;}/**/
